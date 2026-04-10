@@ -23,7 +23,7 @@ cp .env.example .env
 python app.py
 ```
 
-Open http://localhost:5000
+Open http://127.0.0.1:8000
 
 Note: The first upload will be slower as it downloads the embedding model (~80MB).
 
